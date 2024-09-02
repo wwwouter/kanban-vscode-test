@@ -11,7 +11,7 @@ completedColumns:
 
 ## Todo
 
-- [baklog](tasks/baklog.md)
+- [backlog](tasks/backlog.md)
 
 ## In Progress
 
