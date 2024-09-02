@@ -1,0 +1,55 @@
+{
+    "title": "Kanban",
+    "cols": [
+        {
+            "title": "Bugs",
+            "tasks": [
+                {
+                    "text": "Bug 2",
+                    "id": "zvzkm0bubc21hbqdinvk1nc2"
+                },
+                {
+                    "text": " bug 1\n\n",
+                    "id": "df6jd4evx9e1w4fu9f1a430e"
+                }
+            ],
+            "id": "n0sn1a98wcmbbls8yujqkvg2",
+            "color": "#eb144c"
+        },
+        {
+            "title": "To-Do",
+            "tasks": [
+                {
+                    "text": "New TODO\n\n# Some Markdown\n\n\nDus\n",
+                    "id": "paaq05a967s1txvz2w50etda"
+                }
+            ],
+            "id": "habevq730k0y5duevvb371t6",
+            "color": "#fcb900"
+        },
+        {
+            "title": "Doing",
+            "tasks": [
+                {
+                    "text": "# Title\ndescription\n## Owner: Wouter",
+                    "id": "y86gnppyvoamcgei1apcnddb"
+                },
+                {
+                    "text": "",
+                    "id": "o0thwk9x6x3gadgd9bbgidle"
+                }
+            ],
+            "id": "chr7hf8s7afjvxocog06u18r",
+            "color": "#0693e3"
+        },
+        {
+            "title": "Done",
+            "tasks": [],
+            "id": "s5in9t26dyftp6ype0v81zkv",
+            "color": "#00d084"
+        }
+    ],
+    "autosave": true,
+    "saveToFile": true,
+    "timestamp": 1725270743813
+}
