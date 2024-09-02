@@ -1,4 +1,7 @@
 {
   "mayank1513.trello-kanban.Workspace.filePath": ".tkb",
-  "gitdoc.enabled": true
+  "gitdoc.enabled": true,
+  "gitdoc.autoCommitDelay": 10000,
+  "gitdoc.autoPull": "onCommit",
+  "gitdoc.pushMode": "forcePush"
 }
