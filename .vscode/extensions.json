@@ -1,3 +1,3 @@
 {
-  "recommendations": ["samgiz.vscode-kanbn-boards"]
+  "recommendations": ["samgiz.vscode-kanbn-boards", "vsls-contrib.gitdoc"]
 }
