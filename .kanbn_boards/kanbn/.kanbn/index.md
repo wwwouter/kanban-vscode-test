@@ -11,6 +11,7 @@ completedColumns:
 
 ## Todo
 
+- [new-item](tasks/new-item.md)
 - [backlog](tasks/backlog.md)
 
 ## In Progress
@@ -18,3 +19,5 @@ completedColumns:
 - [in-progress](tasks/in-progress.md)
 
 ## Done
+
+- [done](tasks/done.md)
